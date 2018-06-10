@@ -32,7 +32,7 @@
 #include "stdarg.h"
 
 #include <sys/sysinfo.h>
-#include <sys/types.h>
+#include <sys/sysmacros.h>
 #include <sys/time.h>
 #include <sys/resource.h>
 #include <limits.h>
